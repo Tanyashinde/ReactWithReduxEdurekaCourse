@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Java_course",
+      "author": "Edureka",
+      "description":"you will learn core java with all the devlopment fundamentals"
+    },
+    {
+      "id": 2,
+      "title": "MYSQL_course",
+      "author": "Edureka",
+      "description":"you will learn MYSQL databse CRUD(create,read,update,delete) operations"
+    },
+    {
+      "id": 3,
+      "title": "NodeJs_course",
+      "author": "Edureka",
+      "description":"you will learn Web Application Devlopment using Node js with all the devlopment fundamentals"
+    }
+  ]
+}
